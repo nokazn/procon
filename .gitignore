@@ -26,7 +26,10 @@
 *.a
 *.lib
 
-# Executables
+# Executablesg
 *.exe
 *.out
 *.app
+
+src/*
+!src/*.cc
